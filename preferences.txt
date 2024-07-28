@@ -1,0 +1,74 @@
+AGE_GROUP_OPTIONS
+18-29
+30-39
+40-55
+>55
+ACTIVITY_PREFERENCES_OPTIONS
+Boat Tours
+Water Sports
+Gambling and Casinos
+Nature Exploration
+Food and Drinks Tasting
+Cultural Immersion
+Adventure Activities
+Relaxation
+Sightseeing
+Shopping
+Wildlife Watching
+Photography Tours
+Wellness Retreats
+Cooking Classes
+Nightlife
+Historical Tours
+Art and Museum Visits
+Hiking and Trekking
+Biking Tours
+Beach Relaxation
+Snorkeling and Diving
+Skiing and Snowboarding
+Music and Concerts
+Theater and Performances
+Wine Tasting
+Local Craft Workshops
+Meditation and Yoga
+Festivals and Events
+City Tours
+Mountain Climbing
+Horseback Riding
+Golfing
+Scuba Diving
+Bird Watching
+Eco-Tours
+Zip Lining
+Paragliding
+Surfing
+Kayaking and Canoeing
+Rafting
+Desert Safaris
+Hot Air Balloon Rides
+Train Journeys
+Stargazing
+Architectural Tours
+Fishing Trips
+Road Trips
+Volunteer Travel
+Agricultural Tours
+Cave Exploration
+Park Visits
+Forest Walks
+Botanical Gardens
+Pilgrimages
+Religious and Spiritual Tours
+Glacier Tours
+Space Observatory Visits
+Theme Park Visits
+Escape Rooms
+Language Learning Tours
+Dance Classes
+Art and Craft Fairs
+Retro and Vintage Tours
+TRAVEL_TYPE_OPTIONS
+Solo
+Couple
+Family
+Friends

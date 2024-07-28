@@ -1,0 +1,68 @@
+api_keys:
+  google_custom_search:
+    api_keys:
+    - AIzaSyBJ2ZPlHxWoGNQQGnq5QUt2xs92BzNy_FA
+    - AIzaSyClNpNxc4RtY_2eSGAFWkA0WWEEtDOj_FI
+    - AIzaSyCFZmQ2j5Nek8DdVmYe6x8lR5GKLAm4mUU
+    - AIzaSyB8teHM3ZOtK4Or3IBCYoPPE4yCbo4xY0w
+    search_engine_ids:
+    - 80dc0d41895b6431f
+    - f6cc8e05dcc524950
+    - 34d0cc8a852c94812
+    - e239c8936afcd48f4
+cookie:
+  expiry_days: 0
+  key: Eq98ELnf1r
+  name: auth
+credentials:
+  usernames:
+    eric:
+      email: eric@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: Eric Cartman
+      password: $2b$12$2zVirlm05932hHlYSuQMIOUYd1kGawQvZRLMLUcYeYD3W18F5mZAS
+    farhan:
+      email: farhan@test.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: Farhan Azmi
+      password: $2b$12$5DkxFnoqgwREjtFiPkmWeulH0zN6nLk2aJjYf7j.8pYJFzqFZTPBS
+    john:
+      email: john@test.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: John Smith
+      password: $2b$12$GFLx2rzkWj1TRgtoLq/xfecRi5VyxxieYR.IKbh6aI/VPmQxac.C6
+    junxian:
+      email: junxian@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: Jun Xian
+      password: $2b$12$uu5doIeMlyFMp0X9TAmGt.cUjhKb9JUaszLXpzpUbiyah6OTiDhQ2
+    kevan:
+      email: kevanong@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: Kevan
+      password: $2b$12$FSXEg6LBzTs0gGdecoqRxeTFY8ky4vZnpt6TZTp4jMYu5YlFIi9im
+    kevin:
+      email: kevinong@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: Kevin
+      password: $2b$12$QLzDy.YIhM4CnxyLWPfExO3FCTE2xygsZGkoghuVOLb9IMEebBRI6
+    rachel:
+      email: rachel@gmail.com
+      logged_in: false
+      name: Rachel
+      password: $2b$12$RP0zFrILT0Y1q2NdHf1xiO6l6iYBK5LA9fzY08PhW6Y/OfJ9KrHn.
+    ray:
+      email: ray@gmail.com
+      failed_login_attempts: 0
+      logged_in: false
+      name: Ray
+      password: $2b$12$sQmti0VmXuQjXIAu61KEi.jwoHjIbUQl8SkbmAJAINEeswFZ52VuO
+pre-authorized:
+  emails:
+  - kyle@gmail.com
