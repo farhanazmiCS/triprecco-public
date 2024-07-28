@@ -38,20 +38,17 @@ Do you love to travel but find planning trips a bit overwhelming with all the de
     ```
     pip install -r requirements.txt
     ```
-
-3. (FOR PROFESSORS ONLY) In the submission, we have attached a `env.txt` file, which contains all the credentials for the firebase database, which stores the user interactions and the user preferences data. Copy everything from that file and create a new file named `.env`. This will provide you access to the database.
-
-4. Afterwards, in the root directory, you can start the app by running the following command:
+3. Afterwards, in the root directory, you can start the app by running the following command:
 
     ```
     streamlit run app.py
     ```
 
-5. At this point, the application should start and you will be redirected to the browser. Happy planning!
+4. At this point, the application should start and you will be redirected to the browser. Happy planning!
 
     [![triprecco-fyp.png](https://i.postimg.cc/6q3MC0Zk/triprecco-fyp.png)](https://postimg.cc/R6k1BwXd)
 
-6. Alternatively, should you encounter any issues with running the application in your environment, you can access the deployed application [here](https://triprecco.streamlit.app/).
+5. Alternatively, should you encounter any issues with running the application in your environment, you can access the deployed application [here](https://triprecco.streamlit.app/).
 
 ## Contributors
 
